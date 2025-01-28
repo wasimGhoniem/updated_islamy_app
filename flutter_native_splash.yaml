@@ -1,0 +1,16 @@
+# flutter_native_splash-development.yaml
+flutter_native_splash:
+  color: "#202020"
+  image: assets/images/splash_screen.png
+  branding: assets/images/brand.png
+  color_dark: "#202020"
+  image_dark: assets/images/splash_screen.png
+  branding_dark: assets/images/brand.png
+
+  android_12:
+    image: assets/images/splash_screen.png
+    branding: assets/images/brand.png
+    icon_background_color: "#202020"
+    image_dark: assets/images/splash_screen.png
+    branding_dark: assets/images/brand.png
+    icon_background_color_dark: "#202020"

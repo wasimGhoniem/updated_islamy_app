@@ -19,6 +19,7 @@ class AppAssets {
   static const String mostRecently = 'assets/images/most_recently_bg.png';
   static const String suraNumber = 'assets/images/sura_bg.png';
   static const String suraDetailsFrame = 'assets/images/sura_details_frame.png';
-  static const String hadethPageBg='assets/images/hadith_page_background.png';
-
+  static const String hadethPageBg = 'assets/images/hadith_page_background.png';
+  static const String sebhaBody = 'assets/images/SebhaBody 1.png';
+  static const String sebhaHead = 'assets/images/sebha_head.png';
 }
